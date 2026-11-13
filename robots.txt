@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storage.googleapis.com/gbp-sites-storage/campaign-53698-demas-law-group-p-c-personal-injury-attorneys/sitemap.xml
